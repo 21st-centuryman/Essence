@@ -1,13 +1,13 @@
 :root {
     --WindowDraggingFromNewtabButton: no-drag;
-    --primary-light: #8abdff;
-    --primary: #6d5dfc;
-    --primary-dark: #5b0eeb;
-    --white: #ffffff;
-    --greyLight-1: #e4ebf5;
-    --greyLight-2: #c8d0e7;
-    --greyLight-3: #bec8e4;
-    --greyDark: #9baacf;
+    --primary-light: #313244;
+    --primary: #1e1e2e;
+    --primary-dark: #11111b;
+    --white: #cdd6f4;
+    --greyLight-1: #9399b2;
+    --greyLight-2: #7f849c;
+    --greyLight-3: #6c7086;
+    --greyDark: #45475a;
 } /*  For windows  */ /*
 :root{--WindowDraggingFromNewtabButton: drag !important}  /* For linux */
 
@@ -647,9 +647,6 @@ findbar {
 }
 
 /* custom buttons */
-#ublock0_raymondhill_net-BAP {
-    list-style-image: url(window/adblock.svg) !important;
-}
 
 #jetpack-extension_dashlane_com-BAP {
     list-style-image: url(window/dashlane.svg) !important;

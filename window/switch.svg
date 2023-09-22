@@ -1,1 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M278-265q-89.583 0-152.292-62.707Q63-390.414 63-479.995q0-89.582 62.708-152.294Q188.417-695 278-695h404q89.583 0 152.292 62.707Q897-569.586 897-480.005q0 89.582-62.708 152.294Q771.583-265 682-265H278Zm0-43.769h403.714q71.501 0 121.509-49.925 50.008-49.924 50.008-121.307 0-71.384-50.008-121.307t-121.509-49.923H278q-70.208 0-120.719 49.961-50.512 49.961-50.512 121.395 0 71.435 50.512 121.27Q207.792-308.769 278-308.769ZM682.109-376q43.678 0 74.285-30.1Q787-436.199 787-479.968q0-43.769-30.575-73.901Q725.85-584 682.172-584t-73.81 30.1q-30.131 30.099-30.131 73.868 0 43.769 30.099 73.901Q638.43-376 682.109-376ZM480-480Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   viewBox="0 -960 960 960"
+   width="48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="switch.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="23.898305"
+     inkscape:cy="24"
+     inkscape:window-width="1312"
+     inkscape:window-height="449"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M278-265q-89.583 0-152.292-62.707Q63-390.414 63-479.995q0-89.582 62.708-152.294Q188.417-695 278-695h404q89.583 0 152.292 62.707Q897-569.586 897-480.005q0 89.582-62.708 152.294Q771.583-265 682-265H278Zm0-43.769h403.714q71.501 0 121.509-49.925 50.008-49.924 50.008-121.307 0-71.384-50.008-121.307t-121.509-49.923H278q-70.208 0-120.719 49.961-50.512 49.961-50.512 121.395 0 71.435 50.512 121.27Q207.792-308.769 278-308.769ZM682.109-376q43.678 0 74.285-30.1Q787-436.199 787-479.968q0-43.769-30.575-73.901Q725.85-584 682.172-584t-73.81 30.1q-30.131 30.099-30.131 73.868 0 43.769 30.099 73.901Q638.43-376 682.109-376ZM480-480Z"
+     id="path1"
+     style="fill:#ffffff" />
+</svg>
